@@ -1,6 +1,6 @@
 ## Code and Software Information
 
-This code reproduces the results presented in *Barros-Souza and Borges et al.* (2023), published in the *Journal of Biogeography*.  
+This code reproduces the results presented in Barros-Souza and Borges et al. (2023), published in the *Journal of Biogeography*.  
 DOI: [https://doi.org/10.1111/jbi.14527](https://doi.org/10.1111/jbi.14527)
 
 **R version:** 3.6.3
